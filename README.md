@@ -7,7 +7,6 @@
 <div>
 <a href="https://github.com/iruaan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iruaan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iruaan&layout=compact&langs_count=8&theme=dracula"/>
 </div> 
   
 <div style="display: inline_block"><br>
